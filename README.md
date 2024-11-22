@@ -3,7 +3,7 @@ Viewport settings for various Amiga demos for use in FS-UAE.
 
 Contributions / fixes / ideas welcome.
 
-## Global fs-uae-launcher Options
+### Global fs-uae-launcher Options
 
 The following are what I use in the Advanced section of the fs-uar-launcher.
 
