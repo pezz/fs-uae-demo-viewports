@@ -24,3 +24,5 @@ scanlines = 0
 smoothing = 0
 ```
 
+Any of these can be overridden in the Custom per-demo config section (cog icon).
+
