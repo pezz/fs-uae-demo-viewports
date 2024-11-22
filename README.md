@@ -18,7 +18,6 @@ fullscreen_width = 1920
 line_doubling = 1
 log_autoscale = 0
 quick_settings = 1
-rtg_scanlines = 0
 scale = 1
 scanlines = 0
 smoothing = 0
